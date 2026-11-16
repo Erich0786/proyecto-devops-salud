@@ -1,0 +1,10 @@
+#Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+#Archivos de variables de entorno reales
+.env
+
+#Configuraciones locales del editor y logs
+.vscode/
+*.log
